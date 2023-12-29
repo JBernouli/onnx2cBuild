@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/sum_example_0_test.dir/sum_example_0_generated.c.o -o sum_example_0_test  -lm 

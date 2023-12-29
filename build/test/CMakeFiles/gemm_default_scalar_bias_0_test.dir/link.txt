@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/gemm_default_scalar_bias_0_test.dir/gemm_default_scalar_bias_0_generated.c.o -o gemm_default_scalar_bias_0_test  -lm 

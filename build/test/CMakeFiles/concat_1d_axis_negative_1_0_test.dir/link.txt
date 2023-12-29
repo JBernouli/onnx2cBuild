@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/concat_1d_axis_negative_1_0_test.dir/concat_1d_axis_negative_1_0_generated.c.o -o concat_1d_axis_negative_1_0_test  -lm 

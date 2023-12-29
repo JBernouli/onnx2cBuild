@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/matmulinteger_0_test.dir/matmulinteger_0_generated.c.o -o matmulinteger_0_test  -lm 

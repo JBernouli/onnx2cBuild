@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/reciprocal_example_0_test.dir/reciprocal_example_0_generated.c.o -o reciprocal_example_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/cast_FLOAT_to_DOUBLE_0_test.dir/cast_FLOAT_to_DOUBLE_0_generated.c.o -o cast_FLOAT_to_DOUBLE_0_test  -lm 

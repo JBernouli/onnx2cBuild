@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/pad_reflect_nopadding_0_test.dir/pad_reflect_nopadding_0_generated.c.o -o pad_reflect_nopadding_0_test  -lm 

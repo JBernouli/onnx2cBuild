@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/pad_constant_input_0_test.dir/pad_constant_input_0_generated.c.o -o pad_constant_input_0_test  -lm 

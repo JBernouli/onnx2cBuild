@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/gemm_CMxN_0_test.dir/gemm_CMxN_0_generated.c.o -o gemm_CMxN_0_test  -lm 

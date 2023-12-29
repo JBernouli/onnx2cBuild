@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/prelu_broadcast_0_test.dir/prelu_broadcast_0_generated.c.o -o prelu_broadcast_0_test  -lm 

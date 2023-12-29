@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/sum_one_input_0_test.dir/sum_one_input_0_generated.c.o -o sum_one_input_0_test  -lm 

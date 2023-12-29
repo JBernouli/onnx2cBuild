@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/lrn_0_test.dir/lrn_0_generated.c.o -o lrn_0_test  -lm 

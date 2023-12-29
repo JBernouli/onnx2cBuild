@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/atanh_example_0_test.dir/atanh_example_0_generated.c.o -o atanh_example_0_test  -lm 

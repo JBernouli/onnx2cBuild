@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/conv_yolov6n_inputlayer_0_test.dir/conv_yolov6n_inputlayer_0_generated.c.o -o conv_yolov6n_inputlayer_0_test  -lm 

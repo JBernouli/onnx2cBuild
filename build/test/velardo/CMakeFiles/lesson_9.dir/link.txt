@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -Wfatal-errors -O3 -DNDEBUG -DDEFAULT_LOG_LEVEL=1 CMakeFiles/lesson_9.dir/lesson9_generated.c.o CMakeFiles/lesson_9.dir/main_lesson9.c.o -o lesson_9  ../../libonnx2c_lib.a /usr/lib/x86_64-linux-gnu/libprotobuf.so 

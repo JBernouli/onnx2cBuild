@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/averagepool_2d_precomputed_same_upper_0_test.dir/averagepool_2d_precomputed_same_upper_0_generated.c.o -o averagepool_2d_precomputed_same_upper_0_test  -lm 

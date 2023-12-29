@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/asinh_example_0_test.dir/asinh_example_0_generated.c.o -o asinh_example_0_test  -lm 

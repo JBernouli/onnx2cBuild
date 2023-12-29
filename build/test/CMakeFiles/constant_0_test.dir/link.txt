@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/constant_0_test.dir/constant_0_generated.c.o -o constant_0_test  -lm 

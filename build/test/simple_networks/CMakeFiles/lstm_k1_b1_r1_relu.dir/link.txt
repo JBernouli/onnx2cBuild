@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -Wfatal-errors -O3 -DNDEBUG -DDEFAULT_LOG_LEVEL=1 CMakeFiles/lstm_k1_b1_r1_relu.dir/lstm_k1_b1_r1_relu_generated.c.o CMakeFiles/lstm_k1_b1_r1_relu.dir/lstm_k1_b1_r1_relu.c.o CMakeFiles/lstm_k1_b1_r1_relu.dir/main_lstm.c.o -o lstm_k1_b1_r1_relu  ../../libonnx2c_lib.a /usr/lib/x86_64-linux-gnu/libprotobuf.so 

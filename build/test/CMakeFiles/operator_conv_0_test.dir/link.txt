@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/operator_conv_0_test.dir/operator_conv_0_generated.c.o -o operator_conv_0_test  -lm 

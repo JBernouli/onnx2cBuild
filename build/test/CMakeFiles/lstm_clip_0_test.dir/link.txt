@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/lstm_clip_0_test.dir/lstm_clip_0_generated.c.o -o lstm_clip_0_test  -lm 

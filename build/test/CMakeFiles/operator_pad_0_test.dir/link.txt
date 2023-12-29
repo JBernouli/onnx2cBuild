@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/operator_pad_0_test.dir/operator_pad_0_generated.c.o -o operator_pad_0_test  -lm 

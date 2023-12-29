@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -Wfatal-errors -O3 -DNDEBUG -DDEFAULT_LOG_LEVEL=1 CMakeFiles/onnx2c.dir/src/main.cc.o CMakeFiles/onnx2c.dir/src/options.cc.o cmake_timestamp/CMakeFiles/timestamp.dir/timestamp.c.o -o onnx2c  libonnx2c_lib.a /usr/lib/x86_64-linux-gnu/libprotobuf.so 

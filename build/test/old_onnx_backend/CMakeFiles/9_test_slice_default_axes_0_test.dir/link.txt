@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/9_test_slice_default_axes_0_test.dir/9_test_slice_default_axes_0_generated.c.o -o 9_test_slice_default_axes_0_test  -lm 

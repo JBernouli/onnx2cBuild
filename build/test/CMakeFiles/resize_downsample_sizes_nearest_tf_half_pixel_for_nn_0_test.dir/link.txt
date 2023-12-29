@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/resize_downsample_sizes_nearest_tf_half_pixel_for_nn_0_test.dir/resize_downsample_sizes_nearest_tf_half_pixel_for_nn_0_generated.c.o -o resize_downsample_sizes_nearest_tf_half_pixel_for_nn_0_test  -lm 

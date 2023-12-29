@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/dropout_default_mask_ratio_0_test.dir/dropout_default_mask_ratio_0_generated.c.o -o dropout_default_mask_ratio_0_test  -lm 

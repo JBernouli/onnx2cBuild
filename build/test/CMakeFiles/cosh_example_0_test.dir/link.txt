@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/cosh_example_0_test.dir/cosh_example_0_generated.c.o -o cosh_example_0_test  -lm 

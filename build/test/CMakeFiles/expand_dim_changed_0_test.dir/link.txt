@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/expand_dim_changed_0_test.dir/expand_dim_changed_0_generated.c.o -o expand_dim_changed_0_test  -lm 

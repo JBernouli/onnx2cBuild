@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/test_tfl_helloworld.dir/test.c.o CMakeFiles/test_tfl_helloworld.dir/generated.c.o -o test_tfl_helloworld  -lm 

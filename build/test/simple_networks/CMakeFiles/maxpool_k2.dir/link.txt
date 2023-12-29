@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -Wfatal-errors -O3 -DNDEBUG -DDEFAULT_LOG_LEVEL=1 CMakeFiles/maxpool_k2.dir/maxpool_k2_generated.c.o CMakeFiles/maxpool_k2.dir/maxpool_k2.c.o CMakeFiles/maxpool_k2.dir/main.c.o -o maxpool_k2  ../../libonnx2c_lib.a /usr/lib/x86_64-linux-gnu/libprotobuf.so 

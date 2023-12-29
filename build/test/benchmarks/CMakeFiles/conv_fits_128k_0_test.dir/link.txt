@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/conv_fits_128k_0_test.dir/conv_fits_128k_0_generated.c.o -o conv_fits_128k_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/tanh_example_0_test.dir/tanh_example_0_generated.c.o -o tanh_example_0_test  -lm 

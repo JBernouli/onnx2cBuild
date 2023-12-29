@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/max_int64_0_test.dir/max_int64_0_generated.c.o -o max_int64_0_test  -lm 

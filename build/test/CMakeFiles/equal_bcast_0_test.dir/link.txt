@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/equal_bcast_0_test.dir/equal_bcast_0_generated.c.o -o equal_bcast_0_test  -lm 

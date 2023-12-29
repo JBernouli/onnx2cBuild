@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/reshape_one_dim_0_test.dir/reshape_one_dim_0_generated.c.o -o reshape_one_dim_0_test  -lm 

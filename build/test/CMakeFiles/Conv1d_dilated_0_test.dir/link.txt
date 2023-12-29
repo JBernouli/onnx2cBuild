@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/Conv1d_dilated_0_test.dir/Conv1d_dilated_0_generated.c.o -o Conv1d_dilated_0_test  -lm 

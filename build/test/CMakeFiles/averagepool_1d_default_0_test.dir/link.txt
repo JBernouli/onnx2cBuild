@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/averagepool_1d_default_0_test.dir/averagepool_1d_default_0_generated.c.o -o averagepool_1d_default_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/less_0_test.dir/less_0_generated.c.o -o less_0_test  -lm 

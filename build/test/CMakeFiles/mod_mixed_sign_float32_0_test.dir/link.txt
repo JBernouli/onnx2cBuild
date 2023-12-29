@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/mod_mixed_sign_float32_0_test.dir/mod_mixed_sign_float32_0_generated.c.o -o mod_mixed_sign_float32_0_test  -lm 

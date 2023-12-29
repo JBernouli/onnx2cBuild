@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/shape_example_0_test.dir/shape_example_0_generated.c.o -o shape_example_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/flatten_axis2_0_test.dir/flatten_axis2_0_generated.c.o -o flatten_axis2_0_test  -lm 

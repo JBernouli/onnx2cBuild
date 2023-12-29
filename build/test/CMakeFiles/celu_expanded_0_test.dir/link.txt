@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/celu_expanded_0_test.dir/celu_expanded_0_generated.c.o -o celu_expanded_0_test  -lm 

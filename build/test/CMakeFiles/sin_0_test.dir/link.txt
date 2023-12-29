@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/sin_0_test.dir/sin_0_generated.c.o -o sin_0_test  -lm 

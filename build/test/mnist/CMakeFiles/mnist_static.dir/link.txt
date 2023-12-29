@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -Wfatal-errors -O3 -DNDEBUG -DDEFAULT_LOG_LEVEL=1 CMakeFiles/mnist_static.dir/test.cc.o CMakeFiles/mnist_static.dir/mnist_generated.c.o -o mnist_static  ../../libonnx2c_lib.a /usr/lib/x86_64-linux-gnu/libprotobuf.so 

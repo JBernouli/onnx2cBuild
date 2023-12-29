@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/matmul_2d_0_test.dir/matmul_2d_0_generated.c.o -o matmul_2d_0_test  -lm 

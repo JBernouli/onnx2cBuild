@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/erf_0_test.dir/erf_0_generated.c.o -o erf_0_test  -lm 

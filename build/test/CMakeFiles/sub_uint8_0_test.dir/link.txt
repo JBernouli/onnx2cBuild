@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/sub_uint8_0_test.dir/sub_uint8_0_generated.c.o -o sub_uint8_0_test  -lm 

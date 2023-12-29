@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/dynamicquantizelinear_min_adjusted_0_test.dir/dynamicquantizelinear_min_adjusted_0_generated.c.o -o dynamicquantizelinear_min_adjusted_0_test  -lm 

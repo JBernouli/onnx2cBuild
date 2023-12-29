@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/thresholdedrelu_default_0_test.dir/thresholdedrelu_default_0_generated.c.o -o thresholdedrelu_default_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/bitshift_left_uint32_0_test.dir/bitshift_left_uint32_0_generated.c.o -o bitshift_left_uint32_0_test  -lm 

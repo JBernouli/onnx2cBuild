@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/convinteger_with_padding_0_test.dir/convinteger_with_padding_0_generated.c.o -o convinteger_with_padding_0_test  -lm 

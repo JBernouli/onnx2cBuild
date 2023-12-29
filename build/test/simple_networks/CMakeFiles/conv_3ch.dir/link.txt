@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -Wfatal-errors -O3 -DNDEBUG -DDEFAULT_LOG_LEVEL=1 CMakeFiles/conv_3ch.dir/conv_3ch_generated.c.o CMakeFiles/conv_3ch.dir/conv_3ch.c.o CMakeFiles/conv_3ch.dir/main.c.o -o conv_3ch  ../../libonnx2c_lib.a /usr/lib/x86_64-linux-gnu/libprotobuf.so 

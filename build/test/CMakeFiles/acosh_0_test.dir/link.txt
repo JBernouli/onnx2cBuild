@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/acosh_0_test.dir/acosh_0_generated.c.o -o acosh_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/pad_edge_0_test.dir/pad_edge_0_generated.c.o -o pad_edge_0_test  -lm 

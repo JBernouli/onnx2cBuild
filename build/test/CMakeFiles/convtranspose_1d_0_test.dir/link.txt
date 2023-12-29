@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/convtranspose_1d_0_test.dir/convtranspose_1d_0_generated.c.o -o convtranspose_1d_0_test  -lm 

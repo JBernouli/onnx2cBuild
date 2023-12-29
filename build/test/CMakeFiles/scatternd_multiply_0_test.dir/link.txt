@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/scatternd_multiply_0_test.dir/scatternd_multiply_0_generated.c.o -o scatternd_multiply_0_test  -lm 

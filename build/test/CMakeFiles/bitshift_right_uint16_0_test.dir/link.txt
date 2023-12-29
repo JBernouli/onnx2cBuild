@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/bitshift_right_uint16_0_test.dir/bitshift_right_uint16_0_generated.c.o -o bitshift_right_uint16_0_test  -lm 

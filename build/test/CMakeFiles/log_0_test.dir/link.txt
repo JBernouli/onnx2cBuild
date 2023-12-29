@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/log_0_test.dir/log_0_generated.c.o -o log_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/resize_upsample_sizes_nearest_ceil_half_pixel_0_test.dir/resize_upsample_sizes_nearest_ceil_half_pixel_0_generated.c.o -o resize_upsample_sizes_nearest_ceil_half_pixel_0_test  -lm 

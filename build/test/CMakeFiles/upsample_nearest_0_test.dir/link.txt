@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/upsample_nearest_0_test.dir/upsample_nearest_0_generated.c.o -o upsample_nearest_0_test  -lm 

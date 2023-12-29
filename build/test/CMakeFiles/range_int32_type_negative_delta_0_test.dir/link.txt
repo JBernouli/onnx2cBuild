@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/range_int32_type_negative_delta_0_test.dir/range_int32_type_negative_delta_0_generated.c.o -o range_int32_type_negative_delta_0_test  -lm 

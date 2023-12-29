@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/constantofshape_int_zeros_0_test.dir/constantofshape_int_zeros_0_generated.c.o -o constantofshape_int_zeros_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/transpose_all_permutations_3_0_test.dir/transpose_all_permutations_3_0_generated.c.o -o transpose_all_permutations_3_0_test  -lm 

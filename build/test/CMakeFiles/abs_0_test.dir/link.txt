@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/abs_0_test.dir/abs_0_generated.c.o -o abs_0_test  -lm 

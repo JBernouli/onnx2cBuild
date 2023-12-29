@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/floor_example_0_test.dir/floor_example_0_generated.c.o -o floor_example_0_test  -lm 

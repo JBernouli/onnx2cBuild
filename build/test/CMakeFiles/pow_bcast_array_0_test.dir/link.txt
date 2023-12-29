@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/pow_bcast_array_0_test.dir/pow_bcast_array_0_generated.c.o -o pow_bcast_array_0_test  -lm 

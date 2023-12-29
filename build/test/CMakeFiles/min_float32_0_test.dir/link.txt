@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/min_float32_0_test.dir/min_float32_0_generated.c.o -o min_float32_0_test  -lm 

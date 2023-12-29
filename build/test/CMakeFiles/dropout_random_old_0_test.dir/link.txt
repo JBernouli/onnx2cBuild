@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/dropout_random_old_0_test.dir/dropout_random_old_0_generated.c.o -o dropout_random_old_0_test  -lm 

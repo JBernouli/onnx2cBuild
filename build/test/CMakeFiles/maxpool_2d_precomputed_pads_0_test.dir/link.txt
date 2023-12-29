@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/maxpool_2d_precomputed_pads_0_test.dir/maxpool_2d_precomputed_pads_0_generated.c.o -o maxpool_2d_precomputed_pads_0_test  -lm 

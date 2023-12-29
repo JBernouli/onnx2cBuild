@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -Wfatal-errors -O3 -DNDEBUG -DDEFAULT_LOG_LEVEL=1 CMakeFiles/pytorch_mnist.dir/test_pytorch.cc.o CMakeFiles/pytorch_mnist.dir/pytorch_generated.c.o -o pytorch_mnist 

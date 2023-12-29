@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/maxpool_stride_2_0_test.dir/maxpool_stride_2_0_generated.c.o -o maxpool_stride_2_0_test  -lm 

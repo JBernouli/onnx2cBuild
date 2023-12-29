@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/convtranspose_autopad_same_0_test.dir/convtranspose_autopad_same_0_generated.c.o -o convtranspose_autopad_same_0_test  -lm 

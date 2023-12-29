@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/greater_bcast_0_test.dir/greater_bcast_0_generated.c.o -o greater_bcast_0_test  -lm 

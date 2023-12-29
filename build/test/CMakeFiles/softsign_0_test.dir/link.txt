@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/softsign_0_test.dir/softsign_0_generated.c.o -o softsign_0_test  -lm 

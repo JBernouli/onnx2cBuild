@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/shape_const_out_0_test.dir/shape_const_out_0_generated.c.o -o shape_const_out_0_test  -lm 

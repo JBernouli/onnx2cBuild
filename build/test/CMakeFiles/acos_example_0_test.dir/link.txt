@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/acos_example_0_test.dir/acos_example_0_generated.c.o -o acos_example_0_test  -lm 

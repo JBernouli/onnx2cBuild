@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/Conv2d_depthwise_with_multiplier_0_test.dir/Conv2d_depthwise_with_multiplier_0_generated.c.o -o Conv2d_depthwise_with_multiplier_0_test  -lm 

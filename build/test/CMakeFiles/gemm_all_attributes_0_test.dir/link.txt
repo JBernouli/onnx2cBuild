@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/gemm_all_attributes_0_test.dir/gemm_all_attributes_0_generated.c.o -o gemm_all_attributes_0_test  -lm 

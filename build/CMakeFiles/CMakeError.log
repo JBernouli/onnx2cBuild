@@ -1,0 +1,48 @@
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WSHORTEN_64_TO_32 failed with the following output:
+Change Dir: /home/jahiz/onnx2c/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_d9b87/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_d9b87.dir/build.make CMakeFiles/cmTC_d9b87.dir/build
+gmake[1]: Entering directory '/home/jahiz/onnx2c/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d9b87.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_CXX_FLAG_WSHORTEN_64_TO_32  -Wall -Werror -Wfatal-errors  -std=c++11  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32   -Wshorten-64-to-32 -std=gnu++11 -o CMakeFiles/cmTC_d9b87.dir/src.cxx.o -c /home/jahiz/onnx2c/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-Wshorten-64-to-32'
+c++: error: unrecognized command-line option '-Wshorten-64-to-32'
+gmake[1]: *** [CMakeFiles/cmTC_d9b87.dir/build.make:78: CMakeFiles/cmTC_d9b87.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/jahiz/onnx2c/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_d9b87/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WD654 failed with the following output:
+Change Dir: /home/jahiz/onnx2c/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_701e3/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_701e3.dir/build.make CMakeFiles/cmTC_701e3.dir/build
+gmake[1]: Entering directory '/home/jahiz/onnx2c/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_701e3.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_CXX_FLAG_WD654  -Wall -Werror -Wfatal-errors  -std=c++11  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing  -wd654   -wd654 -std=gnu++11 -o CMakeFiles/cmTC_701e3.dir/src.cxx.o -c /home/jahiz/onnx2c/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-wd654'
+c++: error: unrecognized command-line option '-wd654'
+gmake[1]: *** [CMakeFiles/cmTC_701e3.dir/build.make:78: CMakeFiles/cmTC_701e3.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/jahiz/onnx2c/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_701e3/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WTHREAD_SAFETY failed with the following output:
+Change Dir: /home/jahiz/onnx2c/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_24f23/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_24f23.dir/build.make CMakeFiles/cmTC_24f23.dir/build
+gmake[1]: Entering directory '/home/jahiz/onnx2c/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_24f23.dir/src.cxx.o
+/usr/bin/c++ -DHAVE_CXX_FLAG_WTHREAD_SAFETY  -Wall -Werror -Wfatal-errors  -std=c++11  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing  -Wthread-safety   -Wthread-safety -std=gnu++11 -o CMakeFiles/cmTC_24f23.dir/src.cxx.o -c /home/jahiz/onnx2c/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command-line option '-Wthread-safety'
+c++: error: unrecognized command-line option '-Wthread-safety'
+gmake[1]: *** [CMakeFiles/cmTC_24f23.dir/build.make:78: CMakeFiles/cmTC_24f23.dir/src.cxx.o] Error 1
+gmake[1]: Leaving directory '/home/jahiz/onnx2c/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_24f23/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }

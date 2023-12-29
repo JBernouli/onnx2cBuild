@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/convtranspose_pads_0_test.dir/convtranspose_pads_0_generated.c.o -o convtranspose_pads_0_test  -lm 

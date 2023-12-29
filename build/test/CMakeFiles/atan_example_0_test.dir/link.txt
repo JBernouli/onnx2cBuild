@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/atan_example_0_test.dir/atan_example_0_generated.c.o -o atan_example_0_test  -lm 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdummy.a CMakeFiles/dummy.dir/conv_yolov6n_inputlayer.c.o CMakeFiles/dummy.dir/conv_yolov6n_biggestconv.c.o CMakeFiles/dummy.dir/conv_yolov6n_lastconv.c.o CMakeFiles/dummy.dir/conv_fits_128k.c.o
+/usr/bin/ranlib libdummy.a

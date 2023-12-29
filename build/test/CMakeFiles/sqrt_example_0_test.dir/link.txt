@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/sqrt_example_0_test.dir/sqrt_example_0_generated.c.o -o sqrt_example_0_test  -lm 

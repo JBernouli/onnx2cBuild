@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/sub_0_test.dir/sub_0_generated.c.o -o sub_0_test  -lm 

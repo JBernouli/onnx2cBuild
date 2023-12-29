@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/matmul_precision_0_test.dir/matmul_precision_0_generated.c.o -o matmul_precision_0_test  -lm 

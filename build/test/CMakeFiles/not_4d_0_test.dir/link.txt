@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/not_4d_0_test.dir/not_4d_0_generated.c.o -o not_4d_0_test  -lm 

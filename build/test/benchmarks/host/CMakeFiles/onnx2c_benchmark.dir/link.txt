@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -Wfatal-errors -O3 -DNDEBUG -DDEFAULT_LOG_LEVEL=1 CMakeFiles/onnx2c_benchmark.dir/benchmark_main.cc.o -o onnx2c_benchmark  ../../../benchmark/src/libbenchmark.a -lrt 

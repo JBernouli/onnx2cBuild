@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/selu_0_test.dir/selu_0_generated.c.o -o selu_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/and_bcast4v2d_0_test.dir/and_bcast4v2d_0_generated.c.o -o and_bcast4v2d_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/11_test_unsqueeze_axis_2_0_test.dir/11_test_unsqueeze_axis_2_0_generated.c.o -o 11_test_unsqueeze_axis_2_0_test  -lm 

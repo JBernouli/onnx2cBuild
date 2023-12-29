@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/resize_upsample_sizes_nearest_round_prefer_ceil_asymmetric_0_test.dir/resize_upsample_sizes_nearest_round_prefer_ceil_asymmetric_0_generated.c.o -o resize_upsample_sizes_nearest_round_prefer_ceil_asymmetric_0_test  -lm 

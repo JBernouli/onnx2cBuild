@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/gemm_CMx1_transA_transB_0_test.dir/gemm_CMx1_transA_transB_0_generated.c.o -o gemm_CMx1_transA_transB_0_test  -lm 

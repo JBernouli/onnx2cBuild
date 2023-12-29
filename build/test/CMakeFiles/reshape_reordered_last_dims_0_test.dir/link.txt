@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/reshape_reordered_last_dims_0_test.dir/reshape_reordered_last_dims_0_generated.c.o -o reshape_reordered_last_dims_0_test  -lm 

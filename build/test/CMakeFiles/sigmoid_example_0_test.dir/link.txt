@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/sigmoid_example_0_test.dir/sigmoid_example_0_generated.c.o -o sigmoid_example_0_test  -lm 

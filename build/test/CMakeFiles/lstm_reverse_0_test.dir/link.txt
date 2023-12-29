@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/lstm_reverse_0_test.dir/lstm_reverse_0_generated.c.o -o lstm_reverse_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/slice_neg_steps_0_test.dir/slice_neg_steps_0_generated.c.o -o slice_neg_steps_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/hardswish_0_test.dir/hardswish_0_generated.c.o -o hardswish_0_test  -lm 

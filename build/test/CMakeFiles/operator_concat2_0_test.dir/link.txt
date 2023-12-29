@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/operator_concat2_0_test.dir/operator_concat2_0_generated.c.o -o operator_concat2_0_test  -lm 

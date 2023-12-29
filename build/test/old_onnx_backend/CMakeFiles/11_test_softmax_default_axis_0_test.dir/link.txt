@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/11_test_softmax_default_axis_0_test.dir/11_test_softmax_default_axis_0_generated.c.o -o 11_test_softmax_default_axis_0_test  -lm 

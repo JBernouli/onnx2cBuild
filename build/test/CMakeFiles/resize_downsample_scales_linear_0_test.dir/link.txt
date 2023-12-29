@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/resize_downsample_scales_linear_0_test.dir/resize_downsample_scales_linear_0_generated.c.o -o resize_downsample_scales_linear_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/instancenorm_epsilon_0_test.dir/instancenorm_epsilon_0_generated.c.o -o instancenorm_epsilon_0_test  -lm 

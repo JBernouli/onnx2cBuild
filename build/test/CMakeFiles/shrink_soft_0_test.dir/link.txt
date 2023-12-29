@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/shrink_soft_0_test.dir/shrink_soft_0_generated.c.o -o shrink_soft_0_test  -lm 

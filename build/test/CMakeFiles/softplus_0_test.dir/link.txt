@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/softplus_0_test.dir/softplus_0_generated.c.o -o softplus_0_test  -lm 

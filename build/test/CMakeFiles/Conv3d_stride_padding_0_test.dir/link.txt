@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/Conv3d_stride_padding_0_test.dir/Conv3d_stride_padding_0_generated.c.o -o Conv3d_stride_padding_0_test  -lm 

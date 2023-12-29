@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/greater_0_test.dir/greater_0_generated.c.o -o greater_0_test  -lm 

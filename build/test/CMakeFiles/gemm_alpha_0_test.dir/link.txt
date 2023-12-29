@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/gemm_alpha_0_test.dir/gemm_alpha_0_generated.c.o -o gemm_alpha_0_test  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/globalaveragepool_precomputed_0_test.dir/globalaveragepool_precomputed_0_generated.c.o -o globalaveragepool_precomputed_0_test  -lm 

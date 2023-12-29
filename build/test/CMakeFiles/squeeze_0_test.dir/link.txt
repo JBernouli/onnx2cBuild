@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/squeeze_0_test.dir/squeeze_0_generated.c.o -o squeeze_0_test  -lm 

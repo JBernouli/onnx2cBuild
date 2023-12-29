@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/elu_0_test.dir/elu_0_generated.c.o -o elu_0_test  -lm 

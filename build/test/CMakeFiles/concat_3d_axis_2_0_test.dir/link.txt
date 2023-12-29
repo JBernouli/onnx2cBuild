@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/concat_3d_axis_2_0_test.dir/concat_3d_axis_2_0_generated.c.o -o concat_3d_axis_2_0_test  -lm 

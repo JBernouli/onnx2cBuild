@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/gather_0_0_test.dir/gather_0_0_generated.c.o -o gather_0_0_test  -lm 

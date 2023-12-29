@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/not_3d_0_test.dir/not_3d_0_generated.c.o -o not_3d_0_test  -lm 

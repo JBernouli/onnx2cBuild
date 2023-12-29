@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/clip_default_int8_inbounds_0_test.dir/clip_default_int8_inbounds_0_generated.c.o -o clip_default_int8_inbounds_0_test  -lm 

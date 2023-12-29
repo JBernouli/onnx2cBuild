@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/lstm_missing_inputs_0_test.dir/lstm_missing_inputs_0_generated.c.o -o lstm_missing_inputs_0_test  -lm 

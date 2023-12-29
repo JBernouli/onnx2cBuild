@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/mul_0_test.dir/mul_0_generated.c.o -o mul_0_test  -lm 

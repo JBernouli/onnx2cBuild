@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/mnist_1_test.dir/mnist_1_generated.c.o -o mnist_1_test  -lm 

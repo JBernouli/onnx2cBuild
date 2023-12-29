@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/leakyrelu_default_0_test.dir/leakyrelu_default_0_generated.c.o -o leakyrelu_default_0_test  -lm 

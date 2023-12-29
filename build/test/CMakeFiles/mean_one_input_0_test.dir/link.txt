@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/mean_one_input_0_test.dir/mean_one_input_0_generated.c.o -o mean_one_input_0_test  -lm 

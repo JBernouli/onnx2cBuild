@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/cos_0_test.dir/cos_0_generated.c.o -o cos_0_test  -lm 

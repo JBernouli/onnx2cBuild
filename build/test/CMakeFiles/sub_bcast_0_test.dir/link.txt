@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/sub_bcast_0_test.dir/sub_bcast_0_generated.c.o -o sub_bcast_0_test  -lm 

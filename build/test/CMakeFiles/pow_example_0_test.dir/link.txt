@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror -O3 -DNDEBUG CMakeFiles/pow_example_0_test.dir/pow_example_0_generated.c.o -o pow_example_0_test  -lm 
